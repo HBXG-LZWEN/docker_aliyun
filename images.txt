@@ -1,5 +1,5 @@
 #nginx
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 19970688/nastools-bt
@@ -85,7 +85,7 @@ jetty
 joomla
 jruby
 julia
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 kaazing-gateway
 kapacitor
 kimi360/homebox
