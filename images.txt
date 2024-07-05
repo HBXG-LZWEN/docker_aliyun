@@ -104,7 +104,6 @@ linuxserver/plex
 linuxserver/plex-meta-manager
 linuxserver/qbittorrent
 linuxserver/transmission
-logstash
 luodaoyi/kms-server
 mageia
 mariadb
