@@ -1,15 +1,14 @@
 
-19970688/nastools-bt
-1panel/openresty
-adminer
-advplyr/audiobookshelf
-#aerospike
-allanpk716/chinesesubfinder
-alpine
-alt
-amazonlinux
-antrea/sftp
-arangodb
+#19970688/nastools-bt
+#1panel/openresty
+#adminer
+#advplyr/audiobookshelf
+#allanpk716/chinesesubfinder
+#alpine
+#alt
+#amazonlinux
+#antrea/sftp
+#arangodb
 archlinux
 backdrop
 bash
@@ -30,7 +29,6 @@ cloudnas/clouddrive2
 cloudnas/clouddrive2-unstable
 cnk3x/xunlei
 composer 
-#consul
 convertigo
 couchbase
 couchdb
@@ -58,7 +56,6 @@ fsharp
 gazebo
 gcc
 geonetwork
-#geoovy
 ghcr.io/monlor/xiaoya-alist:latest
 ghcr.io/monlor/xiaoya-embyserver:latest
 ghcr.io/monlor/xiaoya-jellyfin:latest
@@ -86,10 +83,8 @@ hylang
 influxdb
 iojs
 irssi
-#java
 jaymoulin/transmission
 jellyfin/jellyfin
-jenkins
 jetty
 joomla
 jruby
