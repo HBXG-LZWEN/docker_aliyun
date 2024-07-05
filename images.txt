@@ -91,7 +91,6 @@ jruby
 julia
 kaazing-gateway
 kapacitor
-kibana
 kimi360/homebox
 kl3x/xunlei
 kl3x/xunlei
