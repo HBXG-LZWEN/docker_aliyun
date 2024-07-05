@@ -45,7 +45,7 @@ drupal
 eclipse-mosquitto
 eclipse-temurin
 eggdrop
-elasticsearch
+#elasticsearch
 elestio/nextcloud
 elixir
 emby/embyserver
