@@ -200,7 +200,6 @@ xiaoyaliu/glue
 xiaoyaliu/tfm
 xujinkai/aria2-with-webui
 xwiki
-yourl
 yourls
 znc
 zookeeper
