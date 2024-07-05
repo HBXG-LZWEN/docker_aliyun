@@ -3,7 +3,7 @@
 1panel/openresty
 adminer
 advplyr/audiobookshelf
-aerospike
+#aerospike
 allanpk716/chinesesubfinder
 alpine
 alt
