@@ -58,7 +58,7 @@ fsharp
 gazebo
 gcc
 geonetwork
-geoovy
+#geoovy
 ghcr.io/monlor/xiaoya-alist:latest
 ghcr.io/monlor/xiaoya-embyserver:latest
 ghcr.io/monlor/xiaoya-jellyfin:latest
