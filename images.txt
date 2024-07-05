@@ -86,7 +86,7 @@ hylang
 influxdb
 iojs
 irssi
-java
+#java
 jaymoulin/transmission
 jellyfin/jellyfin
 jenkins
