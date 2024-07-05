@@ -184,7 +184,6 @@ tomee
 traefik 
 ubuntu
 varnish
-vault
 wahyd4/aria2-ui
 websphere-liberty
 wghaos/clouddrive2
