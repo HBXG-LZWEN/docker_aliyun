@@ -133,7 +133,6 @@ odoo
 oneyx/onelist
 openjdk
 open-liberty
-opensuse
 orientdb
 owncloud
 p3terx/aria2-pro
